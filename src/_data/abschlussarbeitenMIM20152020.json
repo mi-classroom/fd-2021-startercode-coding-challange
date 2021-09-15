@@ -1,0 +1,374 @@
+[
+   {
+      "datum":"09.09.2015",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Winter",
+      "thema":"Nutzerzentrierte Entwicklung in agilen Startups - Herleitung eines leichtgewichtigen Gesamtprozesses für die frühen Phasen eines Software Startups"
+   },
+   {
+      "datum":"20.10.2015",
+      "erstpruefer":"Fischer",
+      "zweitpruefer":"Kohls",
+      "thema":"Ad-Hoc Kollaboration auf Basis von Peer-to-Peer Browsertechnologien"
+   },
+   {
+      "datum":"30.10.2015",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kohls",
+      "thema":"Kontextanalyse und Anforderungsspezifizierung für ein nachhaltiges shared economy System"
+   },
+   {
+      "datum":"11.11.2015",
+      "erstpruefer":"Winter",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Performanz-Modellierung und Performanz-Analyse webbasierter Anwendungen"
+   },
+   {
+      "datum":"17.02.2016",
+      "erstpruefer":"Stenzel",
+      "zweitpruefer":"Engelen",
+      "thema":"Einsatz von erweiterter Realität auf Smartphone - Neue Verkaufsunterstützung und eine Chance für Werbung"
+   },
+   {
+      "datum":"12.04.2016",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kohls",
+      "thema":"Software-Anforderungen und Nachhaltigkeit als Elemente von Software-Qualität - Requirements Engineering und Anwendung eines sustainability analysis Frameworks auf die Konzeption eines Software Services im Kontext von sharing Economy, sowie Erstellen erster Prototypen"
+   },
+   {
+      "datum":"11.07.2016",
+      "erstpruefer":"Fischer",
+      "zweitpruefer":"Kohls",
+      "thema":"Konzeption von Feedback und Dialogsfunktionen für ein E-Learning System zur Vorbereitung auf mündliche Prüfungen"
+   },
+   {
+      "datum":"29.07.2016",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Design und Evaluation von Interaktionskonzepten zur Optimierung von Touch-Interfaces für numerische Eingaben in unterschiedlichen Nutzungskontexten"
+   },
+   {
+      "datum":"28.10.2016",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Cross-Platform Usability in Multiple-User Interfaces - Designstrategien in Applikationen industrieller Automatisierungssysteme"
+   },
+   {
+      "datum":"16.12.2016",
+      "erstpruefer":"Karsch",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Bewertungskriterien für Obfuscation Techniken"
+   },
+   {
+      "datum":"18.05.2017",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Eisemann",
+      "thema":"Konzeption und Evaluation eines kooperativen Lernspiels für eine Einführungsveranstaltung über Datenstrukturen und Pseudocode"
+   },
+   {
+      "datum":"22.05.2017",
+      "erstpruefer":"Winter",
+      "zweitpruefer":"Fischer",
+      "thema":"Ontologiebasierte semantische Modellierung und Analyse von Genogramminformationen"
+   },
+   {
+      "datum":"12.06.2017",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Hartmann",
+      "thema":"Menschzentrierte Gamification einer mobilen Anwendung gegen Schulversagen bei Jugendlichen mit psychischen Problemen"
+   },
+   {
+      "datum":"14.06.2017",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kornacher",
+      "thema":"Interaction Design mit dem Fokus auf User Experience: Zur Rolle des Storytellings im Kontext von E-Commerce"
+   },
+   {
+      "datum":"13.07.2017",
+      "erstpruefer":"Karsch",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Systeme und Prozesse zum proaktiven Abgleich gestohlener Identitätsdaten unter Beachtung von Datenschutzaspekten"
+   },
+   {
+      "datum":"24.07.2017",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Menschzentrierte Konzeption und Prototypentwicklung eines Systems in der Intensivmedizin: Anwendung iterativer Methoden zur Entwicklung eines Pflegedokumentationssystems"
+   },
+   {
+      "datum":"30.08.2017",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Kohls",
+      "thema":"Konzept und Implementation zur Messung und Auswertung des Informationsgehaltes von Smartphones"
+   },
+   {
+      "datum":"11.10.2017",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Kornacher",
+      "thema":"Kameraarbeit im Virtual Reality-Film: Unterschiede und Vorteile gegenüber dem klassischen Film"
+   },
+   {
+      "datum":"09.11.2017",
+      "erstpruefer":"Günther",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Integration kontinuierlicher Lasttests in eine Anwendungslandschaft am Beispiel der Production Line"
+   },
+   {
+      "datum":"17.12.2017",
+      "erstpruefer":"Fischer",
+      "zweitpruefer":"Kohls",
+      "thema":"Exploring the Aspects of Blogging as a Professional Activity and their Influence on Authenticity of the Author and Credibility of the Blog"
+   },
+   {
+      "datum":"20.12.2017",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Eisemann",
+      "thema":"Konzeption und praktische Umsetzung eines Designansatzes, der die User-Experience und -Values für ein mobiles B2B-System berücksichtigt"
+   },
+   {
+      "datum":"25.04.2018",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Fischer",
+      "thema":"Entscheiden zu Gunsten einer nachhaltigen Anwendung"
+   },
+   {
+      "datum":"03.05.2018",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Klocke",
+      "thema":"Einsatz von Informationsvisualisierungen zur Bildsegmentierung und Matting"
+   },
+   {
+      "datum":"08.05.2018",
+      "erstpruefer":"Fischer",
+      "zweitpruefer":"Noss",
+      "thema":"Social Open Data - Mit Crowdsourcing zu mehr kommunaler Bürgerbeteiligung"
+   },
+   {
+      "datum":"04.06.2018",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kohls",
+      "thema":"Empirische und analytische Evaluation von Nutzungsqualitäten am Beispiel des interaktiven Systems TimePunch"
+   },
+   {
+      "datum":"18.07.2018",
+      "erstpruefer":"Karsch",
+      "zweitpruefer":"Fischer",
+      "thema":"Internet of Things Security - Überprüfung der Sicherheit von Web-Schnittstellen ausgewählter IoT-Geräte"
+   },
+   {
+      "datum":"18.07.2018",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kornacher",
+      "thema":"Konzipierung und Entwicklung eines interaktiven soziotechnischen Systems zur Unterstützung ehrenamtlicher Dienste"
+   },
+   {
+      "datum":"27.07.2018",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kohls",
+      "thema":"Konzeptualisierung eines methodischen Rahmens zur Integration von Critical Design als unterstützende Maßnahme von Sustainable Interaction Design"
+   },
+   {
+      "datum":"27.07.2018",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kohls",
+      "thema":"Exemplarische Studie zur Praxistauglichkeit von Civic Design in Hinblick auf kommunale Entscheidungsprozesse"
+   },
+   {
+      "datum":"09.08.2018",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Karsch",
+      "thema":"Erfassung von nutzerseitig relevanten Themen im Spannungsfeld von IT-Sicherheit und deren Gebrauchstauglichkeit"
+   },
+   {
+      "datum":"10.08.2018",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Eisemann",
+      "thema":"Living Mockups- Evaluation der Effektivität eines Ko-Kreationsprozesses zur Gestaltung von Sytemen"
+   },
+   {
+      "datum":"22.01.2019",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kohls",
+      "thema":"Empirische Untersuchung zur Rolle Sozialer Medien für die User Experience im B2C-Kontext"
+   },
+   {
+      "datum":"30.01.2019",
+      "erstpruefer":"Günther",
+      "zweitpruefer":"Victor",
+      "thema":"Die Rolle des Projektmanagers in einer agilen Arbeitsumgebung"
+   },
+   {
+      "datum":"26.02.2019",
+      "erstpruefer":"Richert",
+      "zweitpruefer":"Tiltmann",
+      "thema":"Evaluation von Kommunikationsdesigns zwischen Fußgängern und autonomen Fahrzeugen"
+   },
+   {
+      "datum":"07.06.2019",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Kohls",
+      "thema":"Collaborating Homes: Austausch erlernter Interaktionsmuster zur Unterstützung vernetzten Wohnens"
+   },
+   {
+      "datum":"25.06.2019",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Günther",
+      "thema":"Klassifizierung von Nachrichten in sozialen Medien als Fake News unter Berücksichtigung von gesellschaftlichen Normen und Gesetzen"
+   },
+   {
+      "datum":"09.07.2019",
+      "erstpruefer":"Konen",
+      "zweitpruefer":"Kohls",
+      "thema":"Implementierung und Untersuchung eines Turniersystems für KI-Agenten in Brettspielen"
+   },
+   {
+      "datum":"18.10.2019",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Eisemann",
+      "thema":"Entwicklung eines Vorgehensmodells zum Aufbau einer Taxonomie von Standardmechanismen im Bereich Gamification"
+   },
+   {
+      "datum":"18.10.2019",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Kohls",
+      "thema":"Analyse und Entwicklung neuronaler Netze zur Komprimierung visueller Daten unter Berücksichtigung der menschlichen Wahrnehmung"
+   },
+   {
+      "datum":"11.11.2019",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Optimierung von Polizeieinsätzen durch Beobachtung geographischer Anomalie bei Twitter"
+   },
+   {
+      "datum":"09.12.2019",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Eisemann",
+      "thema":"Konzeption und Umsetzung eines Onboarding Generators"
+   },
+   {
+      "datum":"26.02.2020",
+      "erstpruefer":"Winter",
+      "zweitpruefer":"Kohls",
+      "thema":"Entwicklung, Einsatz und Validierung eines iterativen und inkrementellen Vorgehensmodells für die Softwareentwicklung in Projekten mit spatial- und temporal unabhängigen Teams"
+   },
+   {
+      "datum":"20.05.2020",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Eisemann",
+      "thema":"Konzeption und Implementierung einer cloudbasierten Lösung für das ad-hoc Teilen von Dokumenten in Besprechungen"
+   },
+   {
+      "datum":"31.08.2020",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Kohls",
+      "thema":"Smartphone Usage Logging: Studie zur Ermittlung von Zusammenhängen zwischen Nutzungsabsicht und erfasster Interaktion"
+   },
+   {
+      "datum":"29.05.2019",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kornacher",
+      "thema":"Konzeption einer menschzentrierten IT-Portofolio-Management Software"
+   },
+   {
+      "datum":"15.07.2019",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Kohls",
+      "thema":"Entwicklung eines Fußball-Analysetools"
+   },
+   {
+      "datum":"03.12.2019",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Kohls",
+      "thema":"Konzipierung und Umsetzung einer Augmented Reality Anwendung im Lehrkontext"
+   },
+   {
+      "datum":"12.12.2019",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kohls",
+      "thema":"Benutzerspezifische Adaption einer analytischen Usability-Evaluationsmethode"
+   },
+   {
+      "datum":"16.12.2019",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Fischer",
+      "thema":"Automatische Bewertung von Codequalität innerhalb eines Code Reviews"
+   },
+   {
+      "datum":"18.12.2019",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kornacher",
+      "thema":"Menschzentrierte Konzeption einer IT-Portfolio Dokumentations-Software"
+   },
+   {
+      "datum":"06.02.2020",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kornacher",
+      "thema":"Konzeption und prototypische Implementierung eines Evaluationstools zur Analyse grafischer interaktiver Prototypen"
+   },
+   {
+      "datum":"11.03.2020",
+      "erstpruefer":"Victor",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Blockchain as a Service (BaaS) - Einsatzpotenziale und Use Cases"
+   },
+   {
+      "datum":"14.05.2020",
+      "erstpruefer":"Konen",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Realisierung und Evaluation eines Indoor-Lokalisierungssystems mittels Bluetooth-Low-Energy-Beacons unter Berücksichtigung von Krankenhausanforderungen"
+   },
+   {
+      "datum":"25.05.2020",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kornacher",
+      "thema":"Anwendung von Value Sensitive Design Methoden auf Fitness-Tracker"
+   },
+   {
+      "datum":"15.06.2020",
+      "erstpruefer":"Majewski",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Migration einer konkreten Microservice-basierten Applikationslandschaft auf Kubernetes und Evaluierung von Orchestrierungstools"
+   },
+   {
+      "datum":"18.06.2020",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Hartmann",
+      "thema":"Konzeption und Entwicklung eines Design-Toolkits für den Einsatz von Künstlicher Intelligenz im Bereich Online-Marketing"
+   },
+   {
+      "datum":"26.06.2020",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Usability Evaluation zwischen SAP ERP und SAP S/4HANA"
+   },
+   {
+      "datum":"06.07.2020",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Kohls",
+      "thema":"Konzeption und Entwicklung eines auf Mobile Augmented Reality basierenden Serious Games am Beispiel der COVID-19 Pandemie"
+   },
+   {
+      "datum":"24.07.2020",
+      "erstpruefer":"Zühlke",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Improving Grapheme-to-Phoneme Conversion for Anglicisms in                                                              German Speech Recognition"
+   },
+   {
+      "datum":"31.07.2020",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kornacher",
+      "thema":"Anwendung von Methoden des Value Sensitive Designs im Online-Kontext am Beispiel der Digitalisierung von Lehre"
+   },
+   {
+      "datum":"28.08.2020",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Vergleich und Analyse von Cross-Plattform Frameworks für die Portierung einer Webanwendung auf mobile Plattformen"
+   },
+   {
+      "datum":"04.09.2020",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Eisemann",
+      "thema":"Machine-Learning-Verfahren zur Vorhersage von Webseitenästhetik"
+   }
+]

@@ -1,0 +1,78 @@
+/* Main Content
+############################################################################ */
+
+.main-content {
+  padding-top: var(--m);
+  padding-bottom: var(--l);
+}
+
+/* Footer
+############################################################################ */
+
+.footer {
+  padding-top: var(--s);
+  padding-bottom: var(--l);
+  padding-left: var(--xxxl);
+  border-top: solid var(--border-width-s) var(--mi-gruen);
+  background-color: var(--mi-black);
+  color: var(--lighter);
+
+  a {
+    color: var(--color-interaction);
+    text-decoration: none;
+  }
+}
+
+/* Header
+############################################################################ */
+
+.header {
+  display: flex;
+  align-items: center;
+  padding-bottom: var(--xl);
+  margin-top: var(--xl);
+  margin-bottom: var(--xl);
+  grid-template-columns: var(--xxxxl) 1fr;
+
+  .mi-logo {
+    display: inline-block;
+    width: calc(var(--xxl) * 2);
+    padding: var(--xxs);
+    margin-right: var(--s);
+    background-color: var(--mi-hellgrau);
+    border-radius: 50%;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  h1 {
+    margin: 0;
+    font-family: var(--ff-headline);
+    font-size: var(--xxl);
+    text-decoration: none;
+  }
+}
+
+
+/* Teaser
+############################################################################ */
+
+.teaser {
+  padding-top: var(--xl);
+  margin-bottom: var(--xxxl);
+  background-color: var(--lighter);
+}
+
+
+/* Simple
+############################################################################ */
+
+section.simple,
+section.hero,
+section.teaser {
+  padding-right: var(--xxxl);
+  padding-bottom: var(--xxxl);
+  padding-left: var(--xxxl);
+}

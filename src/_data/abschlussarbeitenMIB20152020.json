@@ -1,0 +1,1346 @@
+[
+   {
+      "datum":"09.09.2015",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Studie zur Optimierung von Persona Story Cards in Bezug auf Kognitionsstiltypen"
+   },
+   {
+      "datum":"23.09.2015",
+      "erstpruefer":"Klocke",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Wie kann User Experience Engineering und agile Software-Entwicklung am Beispiel der Softwarefirma Open-Xchange kombiniert werden?"
+   },
+   {
+      "datum":"23.09.2015",
+      "erstpruefer":"Jochum",
+      "zweitpruefer":"Klocke",
+      "thema":"Analyse und Visualisierung des Verhaltens Genetischer Algorithmen"
+   },
+   {
+      "datum":"14.10.2015",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Eisemann",
+      "thema":"Softwarebasierte Mischung mehrerer Videosignalströme für die Echtzeitübertragung auf eine Großbildanzeige"
+   },
+   {
+      "datum":"14.10.2015",
+      "erstpruefer":"Stenzel",
+      "zweitpruefer":"Köhler",
+      "thema":"Entwicklung eines Prototypen für bewegliche Schallquellen im virtuellen Raum unter Einsatz von binauraler Klangsynthese und eines Trackingsystems"
+   },
+   {
+      "datum":"20.10.2015",
+      "erstpruefer":"Stenzel",
+      "zweitpruefer":"Kornacher",
+      "thema":"3D-Digitalisierung von Insekten mit Hilfe von Tiefeninformationen einer Lichtfeldkamera"
+   },
+   {
+      "datum":"28.10.2015",
+      "erstpruefer":"Victor",
+      "zweitpruefer":"Günther",
+      "thema":"Firefox OS und WebApps"
+   },
+   {
+      "datum":"01.12.2015",
+      "erstpruefer":"Victor",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Modularisierung mit Templates-Entwurfsmuster in C#"
+   },
+   {
+      "datum":"01.12.2015",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Entwicklung einer prototypischen mobilen Applikation zur Vereinfachung des Dokumentationsprozesses beim Austausch von Aggregaten und der Konfigurationsänderung einer Landmaschine für den CLAAS Kundendienst"
+   },
+   {
+      "datum":"15.12.2015",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Winter",
+      "thema":"Eine Analyse der Variationsvielfalt des Model View Controller Muster in der Theorie und Praxis"
+   },
+   {
+      "datum":"16.12.2015",
+      "erstpruefer":"Winter",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Konzeption und Realisierung einer verteilten, web-basierten Versionierungs-, Integrations- und Darstellungsplattform für internationalisierte Informationen"
+   },
+   {
+      "datum":"16.12.2015",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Eisemann",
+      "thema":"Bewertung von Gamification - Ansätzen in der Programmierausbildung anhand von bekannten Spielprinzipien"
+   },
+   {
+      "datum":"17.12.2015",
+      "erstpruefer":"Stenzel",
+      "zweitpruefer":"Kornacher",
+      "thema":"Analyse von Tiefeninformationen einer Lichtfeldkamera und deren Integration in einen Structure from Motion Workflow"
+   },
+   {
+      "datum":"08.01.2016",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Eisemann",
+      "thema":"Konzeption einer produktionsunterstützenden Software für Bewerbungsvideos"
+   },
+   {
+      "datum":"28.01.2016",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Interner Lehrbeauftragte",
+      "thema":"Entwicklung einer Mensch-Maschinen-Schnittstelle eines Kommunikationssystems für Lade- und Transportgeräte im Baugewerbe"
+   },
+   {
+      "datum":"10.02.2016",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Eisemann",
+      "thema":"Bewertung des Lernerfolgs und der Lerninhalte eines Gamification-Portals für Programmiersprachen mithilfe eines Reflexionsportfolios"
+   },
+   {
+      "datum":"18.02.2016",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Ansätze zur Integration von Contextual Design und Customer Journey Mapping in einem Gesamtprozess"
+   },
+   {
+      "datum":"23.02.2016",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Internationalisierung und Lokalisierung von Webanwendungen unter Zuhilfenahme von AngularJS"
+   },
+   {
+      "datum":"29.02.2016",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Optimierung der Contentauswahl mit Hilfe von Metriken im mobilen Kontext am Beispiel www.OnVista.de"
+   },
+   {
+      "datum":"29.02.2016",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Eisemann",
+      "thema":"Videoproduktionen mit dem Smartphone-Qualitätsermittlung von Eventvideoproduktionen auf dem Smartphone am Beispiel der Videoproduktion über ein Handballspiel des VfL Gummersbach"
+   },
+   {
+      "datum":"29.02.2016",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Kornacher",
+      "thema":"Implementierung eines Empfehlungssystems für eine Videoplattform mit einer begrenzten Anzahl an Inhaltselementen"
+   },
+   {
+      "datum":"15.03.2016",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Eisemann",
+      "thema":"Usability Evaluation und Optimierung einer Android-App für kreative Denkprozesse"
+   },
+   {
+      "datum":"15.03.2016",
+      "erstpruefer":"Winter",
+      "zweitpruefer":"Eisemann",
+      "thema":"Konzeptionierung und prototypische Entwicklung eines interaktiven Systems zur Aufklärung und Verminderung von Ängsten vor Strahlen- bzw. Chemotherapie bei Kindern"
+   },
+   {
+      "datum":"21.03.2016",
+      "erstpruefer":"Bartz-Beielstein",
+      "zweitpruefer":"Naujoks",
+      "thema":"Vergleich von Behandlungsmethoden für Nebenbedingungen in Evolutionsstrategien mit Maple"
+   },
+   {
+      "datum":"05.04.2016",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Kohls",
+      "thema":"Zweidimensionale Spiele im Kontext der virtuellen Realität"
+   },
+   {
+      "datum":"09.05.2016",
+      "erstpruefer":"Fischer",
+      "zweitpruefer":"Noss",
+      "thema":"Erhaltung der Konsistenz des Designs von Einkaufsportalen im Web -Integration eines Content Managementsystems mit einem Shop-System"
+   },
+   {
+      "datum":"18.05.2016",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Noss",
+      "thema":"Ermittlung eines Leitfadens für einen der Hörsituation angemessenen                                                     Audiocodec"
+   },
+   {
+      "datum":"16.06.2016",
+      "erstpruefer":"Fischer",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Extraktion von Abbildungen aus digitalisierter medizinischer Fachliteratur"
+   },
+   {
+      "datum":"28.06.2016",
+      "erstpruefer":"Köhler",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Analyse der Leistungsfähigkeit von Websockets in einem webbasierten Kontext zur Auswertung der Lastskalierbarkeit und subjektiven Wahrnehmung am Fallbeispiel einer browserbasierten 2D Echtzeit-Mehrspielerumgebung"
+   },
+   {
+      "datum":"07.07.2016",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Hartmann",
+      "thema":"Analyse der Benutzung von gestenbasierten Interaktionen bei der Bildbearbeitung"
+   },
+   {
+      "datum":"07.07.2016",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Eisemann",
+      "thema":"Ermittlung und Analyse prozessunterstützender Programme für die Produktion handgezeichneter Animationsfilme"
+   },
+   {
+      "datum":"13.07.2016",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Fischer",
+      "thema":"Leitfaden zur Entwicklung von barrierefreien Web-Angeboten mit dem Responsive Design Workflow"
+   },
+   {
+      "datum":"03.08.2016",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Hartmann",
+      "thema":"Ableitung von berührungslosen Gesten aus Multi-Touch Gesten für die Steuerung von Multimedia im Automobil"
+   },
+   {
+      "datum":"10.08.2016",
+      "erstpruefer":"Fischer",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Statistische Analyse von medizinischen Publikationen mit Hilfe von Text Mining im Hinblick auf wissenschaftliche Merkmale"
+   },
+   {
+      "datum":"22.08.2016",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Erstellung eines plattformübergreifenden Styleguides einer E-Health Anwendung inklusive der Erstellung von Webseiten Mock-ups zu Evaluationszwecken"
+   },
+   {
+      "datum":"29.08.2016",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Stenzel",
+      "thema":"Gestaltung einer Informationsvisualisierung zur Untersuchung des Stromverbrauchs privater Haushalte in den jeweiligen Stadtteilen Kölns"
+   },
+   {
+      "datum":"30.08.2016",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Victor",
+      "thema":"\"Umsetzung eines \"\"Delightful User Interfaces\"\" für die Funktionalitäten eines bestehenden App-Prototypen\""
+   },
+   {
+      "datum":"31.08.2016",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Noss",
+      "thema":"Development of a visual web editor for multi-branch stories in immersive real-time communication games"
+   },
+   {
+      "datum":"31.08.2016",
+      "erstpruefer":"Faeskorn-Woyke",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Lastverteilung durchTaktung der Kommunikation zwischen Klient und Server"
+   },
+   {
+      "datum":"31.08.2016",
+      "erstpruefer":"Bertelsmeier",
+      "zweitpruefer":"Noss",
+      "thema":"Erstellung von Nutzerprofilen aus öffentlicher  Kommunikation in sozialen Netzwerken mit Schwerpunkt auf Charaktereigenschaften der Nutzer"
+   },
+   {
+      "datum":"31.08.2016",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Eisemann",
+      "thema":"Implementierung einer mobilen Koch-App mit Hilfe eines iterativen Designprozesses auf Basis eines bestehenden funktionalen Prototypen"
+   },
+   {
+      "datum":"31.08.2016",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Eisemann",
+      "thema":"Vergleich zwischen Cross Plattform - und nativer App-Entwicklung für Community Anwendungen"
+   },
+   {
+      "datum":"26.09.2016",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Entwicklung einer Pattern Library als Living Styleguide"
+   },
+   {
+      "datum":"05.10.2016",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Implementierung und Optimierung des Atomic Design-Ansatzes in den Workflow der JAR Media GmbH"
+   },
+   {
+      "datum":"11.10.2016",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Fischer",
+      "thema":"Die Ermittlung von Sehenswürdigkeiten mittels Linked Open Data am Beispiel der Stadt Köln"
+   },
+   {
+      "datum":"17.11.2016",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Performanzvergleich zweier WebGL-Frameworks am Beispiel eines 360° Videopanoramas"
+   },
+   {
+      "datum":"22.11.2016",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kornacher",
+      "thema":"Explorative Eye Tracking Studie zur Korrelation von Kognitionstyp und Orientierungsverhalten auf einer Website"
+   },
+   {
+      "datum":"05.12.2016",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Optimizing Reinforcement Learning using Genetic Algorithms"
+   },
+   {
+      "datum":"08.12.2016",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Kohls",
+      "thema":"Konfigurierbare Ansicht zur Darstellung telemetrischer Daten von Automobilkomponenten für Mobile Devices und Augmented Reality"
+   },
+   {
+      "datum":"19.01.2017",
+      "erstpruefer":"Fischer",
+      "zweitpruefer":"Noss",
+      "thema":"Effiziente Erstellung und Wartung des Webauftritts von Handelsunternehmen über mehrere webbasierte Systeme hinweg"
+   },
+   {
+      "datum":"19.01.2017",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Fischer",
+      "thema":"Entwicklung einer SaaS-Anwendung zum Verwalten von Daten auf verteilten E-Commerce Systemen"
+   },
+   {
+      "datum":"26.01.2017",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Kornacher",
+      "thema":"Einbindung von Communityfunktionen in eine Kreativitätsapp auf Basis der Twitter APi"
+   },
+   {
+      "datum":"13.02.2017",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Eisemann",
+      "thema":"Exploration und Umsetzung eines Kreativitätsunterstützenden Systems mit Techniken und Methoden der virtuellen Realität"
+   },
+   {
+      "datum":"20.02.2017",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Eisemann",
+      "thema":"Optimierung, Testing und Refactoring des Back-Ends einer webbasierten Anwendung für ad-hoc Filesharing"
+   },
+   {
+      "datum":"21.02.2017",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Kohls",
+      "thema":"Gamification zum virtuellen Wasserverbrauch von Konsumprodukten - Eine Studie alternativer UX-Designs"
+   },
+   {
+      "datum":"23.02.2017",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Hartmann",
+      "thema":"\"Dramaturgische Strukturen in Scenarios - Untersuchung der Anwendungsmöglichkeiten von Erzählstrukturen der Filmdramaturgie in der Entwicklung von Scenarios im Kontext eines \"\"Designing for User Experience\"\"\""
+   },
+   {
+      "datum":"28.02.2017",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Kundenakquise durch Websiteoptimierung - Content Marketing und sein Nutzen für die Leadgenerierung"
+   },
+   {
+      "datum":"28.02.2017",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Noss",
+      "thema":"Konzeption und Implementierung einer Präsentationsanwendung für Multi-Screen-Interaction"
+   },
+   {
+      "datum":"28.02.2017",
+      "erstpruefer":"Köhler",
+      "zweitpruefer":"Böhmer",
+      "thema":"Analyse und Modellierung des Zusammenhangs zwischen emotionalen Charakteristika und psychoakustischen Merkmalen in der Musik"
+   },
+   {
+      "datum":"28.02.2017",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Victor",
+      "thema":"Implementierung einer auf Fotocommunities basierenden Kreativitätsanwendung für visuelle Impulse"
+   },
+   {
+      "datum":"28.02.2017",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Entwurf und Implementierung eines Verfahrens zur automatisierten Anreicherung von Produkten in E-Commerce Systemen zur Verbesserung von Precision und Recall der Suchergebnisse"
+   },
+   {
+      "datum":"01.03.2017",
+      "erstpruefer":"Stenzel",
+      "zweitpruefer":"Eisemann",
+      "thema":"Optimierung der Bilderkennung von Fremdkörpern vor chaotischen Hintergründen durch Anpassen der Klassifikationsmethode"
+   },
+   {
+      "datum":"21.03.2017",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Kohls",
+      "thema":"Entwicklung einer webbasierten Auftragsbearbeitung für ein Kleinunternehmen in der Lohnfertigung"
+   },
+   {
+      "datum":"19.04.2017",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Kornacher",
+      "thema":"Spielerische Verwendung des semantischen Differentials als Werkzeug zur Schaffung eines einheitlichen Zielbildes für eine Produktentwicklung"
+   },
+   {
+      "datum":"18.05.2017",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"PFLITSCH Website & Club:Optimierung der Usability im Zuge des Responsive Webdesign"
+   },
+   {
+      "datum":"08.06.2017",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Noss",
+      "thema":"Entwicklung eines Algorithmus zur Reduzierung des Lastaufkommens beim kontinuierlichen Webmonitoring"
+   },
+   {
+      "datum":"20.06.2017",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Kohls",
+      "thema":"Smartphone-basierte Soziometrie:Konzeption und Implementierung eines Systems zur Analyse raum-zeitlicher Relationen"
+   },
+   {
+      "datum":"18.07.2017",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Konzeption und Anwendung eines Ansatzes zur strukturellen Modellierung emotionaler Schemata für ein Designing for User Experience"
+   },
+   {
+      "datum":"25.07.2017",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Kohls",
+      "thema":"\"Entwicklung eines \"\"Point-and-Click-Adventure\"\"-Spiels mit Hilfe aktueller Augmented-Reality-Technik für Android\""
+   },
+   {
+      "datum":"02.08.2017",
+      "erstpruefer":"Stahl",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Integration einer Windows Server Domäne in eine andere - Konzeption und exemplarische Implementierung am Beispiel eines Ingenieurdienstleisters"
+   },
+   {
+      "datum":"14.08.2017",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Evaluation der Usability der BPW Website als interaktives webbasiertes System"
+   },
+   {
+      "datum":"16.08.2017",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Hartmann",
+      "thema":"Zusammenspiel von Storytelling und emotionalen Schemata im Kontext von User Experience Design"
+   },
+   {
+      "datum":"22.08.2017",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Kohls",
+      "thema":"Übertragung des Konzeptes der Heldenreise auf die automatisierte Geschichtenerstellung in der Videospielentwicklung"
+   },
+   {
+      "datum":"22.08.2017",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Kohls",
+      "thema":"Der Einsatz und die Wirkung von Musik in online Tutorials"
+   },
+   {
+      "datum":"30.08.2017",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Konzeption und Entwicklung einer Webapplikation zur Buchung und Vermittlung von Kursen & Events zum Thema Familie"
+   },
+   {
+      "datum":"31.08.2017",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Kohls",
+      "thema":"Front-End-Entwicklung und Erweiterung des Back-Ends einer Software zur Erstellung von Befundschreiben und Operationsberichten"
+   },
+   {
+      "datum":"31.08.2017",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"25knots - Ein Tool zur Verbesserung der gestalterischen Qualität von Artefakten im Hochschulkontext"
+   },
+   {
+      "datum":"31.08.2017",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Eisemann",
+      "thema":"Optimierung eines Algorithmus zur Tourenplanung auf Basis von Heuristiken"
+   },
+   {
+      "datum":"12.09.2017",
+      "erstpruefer":"Stenzel",
+      "zweitpruefer":"Eisemann",
+      "thema":"Qualitativer Vergleich von LiDAR und digitaler Photogrammetrie für 3D-Architektur-Modelle und Kombination der Ergebnisse"
+   },
+   {
+      "datum":"12.09.2017",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Eisemann",
+      "thema":"Robot AR:Konzept und Prototyp einer Augmented Reality basierten Steuerung für Roboter"
+   },
+   {
+      "datum":"13.09.2017",
+      "erstpruefer":"Konen",
+      "zweitpruefer":"Eisemann",
+      "thema":"KI-Agenten für das Spiel 2048:Untersuchung von Lernalgorithmen für nichtdeterministische Spiele"
+   },
+   {
+      "datum":"28.09.2017",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Benutzungszentrierte Konzeption, Gestaltung und Evaluation einer Benutzungsschnittstelle für ein Labordokumentationssystem"
+   },
+   {
+      "datum":"29.09.2017",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Hartmann",
+      "thema":"Studie zur Sprachsteuerung von Smart-Home Geräten bei unzureichenden Kontextinformationen"
+   },
+   {
+      "datum":"11.10.2017",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Eisemann",
+      "thema":"Die Abbildung naturwissenschaftlicher Gesetzesmäßigkeiten in 3D-Animationsprogrammen                                    Eine Untersuchung am Beispiel der Darstellung des Lotus-Effektes in dem Programm Blender"
+   },
+   {
+      "datum":"20.10.2017",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Erstellung eines prototypischen Webseiten Mock-Ups zur Verwaltung von naturschutzrelevanten Bestandsteilen"
+   },
+   {
+      "datum":"07.12.2017",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Generische und dynamische View-Erzeugung in Android"
+   },
+   {
+      "datum":"08.12.2017",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Interner Lehrbeauftragte",
+      "thema":"Entwurf und Implementierung einer Webanwendung zur grafisch gestützten Durchführung automatisierter Deployments von Webanwendungen"
+   },
+   {
+      "datum":"17.01.2018",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Eisemann",
+      "thema":"Evaluation von Progressive Web Apps und deren Entwicklung"
+   },
+   {
+      "datum":"02.02.2018",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Implementierung einer Webanwendung für ein Reporting System des Unternehmens Another Monday"
+   },
+   {
+      "datum":"06.02.2018",
+      "erstpruefer":"Faeskorn-Woyke",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Entwurf und Realisierung einer gebrauchstauglichen mobilen Version von einem Onlineshop mit Magento am Beispiel von bengar.de"
+   },
+   {
+      "datum":"07.02.2018",
+      "erstpruefer":"Winter",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Konzeption und prototypische Entwicklung einer Werkzeug-Suite für GUI-basierte Layout-Tests in einer CI-Umgebung"
+   },
+   {
+      "datum":"14.02.2018",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Fischer",
+      "thema":"Vor- und Nachteile von Headless Content Management Systemen im Vergleich zu traditionellen Content Management Systemen"
+   },
+   {
+      "datum":"27.02.2018",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Eisemann",
+      "thema":"\"Ermittlung und prototypische Integration einer visuellen Programmierumgebung zur Programmierung von Arduino-Uno-Mikrocontrollern im Projekt \"\"Jugend hackt - Hello World\"\"                                                                        Anhand derer Gebrauchstauglichkeit für Kinder und Jugendliche im Alter von zehn bis sechzehn Jahren.\""
+   },
+   {
+      "datum":"27.02.2018",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Fischer",
+      "thema":"Konzeption und Implementierung einer mobilen web-basierten App zur Einschränkung der Smartphonenutzung bei Gruppenaktivitäten"
+   },
+   {
+      "datum":"27.02.2018",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Victor",
+      "thema":"Umsetzung von Gamification-Prinzipien in einer Sprachlern-App für Flüchtlingskinder"
+   },
+   {
+      "datum":"27.02.2018",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Kohls",
+      "thema":"Entwicklung einer Augmented Reality App zur Videoprojektion unter Berücksichtigung menschzentrierter Gestaltungskonzepte"
+   },
+   {
+      "datum":"28.02.2018",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Konen",
+      "thema":"Interaktive visuelle Exploration von Streudiagrammen mit Hilfe von Diffusion Curves"
+   },
+   {
+      "datum":"15.03.2018",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Bereitstellung von Sprachsteuerungsmechanismen im Kontext klassischer Nutzeroberflächen"
+   },
+   {
+      "datum":"29.03.2018",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Köhler",
+      "thema":"Smart Music Gloves: Konzept und Prototyp eines Handschuhs zur Steuerung von Musik auf dem Smartphone"
+   },
+   {
+      "datum":"29.03.2018",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Kohls",
+      "thema":"Kombination schwacher Convolutional Neural Networks zur Bildklassifizierung"
+   },
+   {
+      "datum":"04.04.2018",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Kohls",
+      "thema":"Konzeption und Entwicklung eines spielebasierten Lernansatzes zur Förderung des Abstraktionsvermögens"
+   },
+   {
+      "datum":"25.04.2018",
+      "erstpruefer":"Karsch",
+      "zweitpruefer":"Stahl",
+      "thema":"Kriterien zur Erkennung automatisierter Webbrowser"
+   },
+   {
+      "datum":"07.05.2018",
+      "erstpruefer":"Bente",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Methodische Systematik einer Ausbaugrad-Analyse mit Hilfe der Entitäten eines Meta-Modells"
+   },
+   {
+      "datum":"08.05.2018",
+      "erstpruefer":"Bertelsmeier",
+      "zweitpruefer":"Faeskorn-Woyke",
+      "thema":"Formen und Einsatzmöglichkeiten von Crowdsourcing"
+   },
+   {
+      "datum":"28.05.2018",
+      "erstpruefer":"Fischer",
+      "zweitpruefer":"Noss",
+      "thema":"Metriken und Visualisierungen zur Verbesserung der Navigation in der kommunalen Open Data Landschaft Deutschlands"
+   },
+   {
+      "datum":"05.06.2018",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Kornacher",
+      "thema":"Das Flow-Erlebnis beim digitalen Musizieren und Komponieren"
+   },
+   {
+      "datum":"06.06.2018",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Kornacher",
+      "thema":"Konzeption eines studiengangsspezifischen Podcasts an der TH Köln"
+   },
+   {
+      "datum":"07.06.2018",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Kohls",
+      "thema":"Konzeption, Umsetzung und Evaluation einer OCR-Unterstützung für eine Einkaufslisten-Anwendung"
+   },
+   {
+      "datum":"07.06.2018",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Kohls",
+      "thema":"Vision und prototypische Umsetzung einer immersiven Webanwendung"
+   },
+   {
+      "datum":"19.06.2018",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Eisemann",
+      "thema":"Generierung von Wortwolken im SVG-Format mittels Webstandards."
+   },
+   {
+      "datum":"28.06.2018",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Böhmer",
+      "thema":"Didaktische Konzeption und technologische Umsetzung einer Lern-App für den Erdkundeunterricht unter Verwendung von Google Maps"
+   },
+   {
+      "datum":"02.07.2018",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"\"Domänenanalyse und exemplarische Konzeption eines Vorgehensmodells zur Etablierung einer \"\"Seamless User Experlence\"\" am Beispiel von WetterOnline\""
+   },
+   {
+      "datum":"05.07.2018",
+      "erstpruefer":"Fischer",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Nutzung von Linked Open Data zur redaktionellen Recherche für Beiträge zur Formel 1"
+   },
+   {
+      "datum":"10.07.2018",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Prototypische Implementierung einer Analysekomponente zur Veranschaulichung und Identifikation kritischer Werte bei der Echtzeitanalyse"
+   },
+   {
+      "datum":"12.07.2018",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Kohls",
+      "thema":"Campus Voice Assistant                                      Konzept und Entwicklung eines Sprachassistenten für digitale Dienste der Hochschule"
+   },
+   {
+      "datum":"12.07.2018",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Kohls",
+      "thema":"Potenzialanalyse eines Augmented Virtuality Headsets in der Lehre, anhand eines eigenen do it yourself Augmented Virtuality Headsets"
+   },
+   {
+      "datum":"18.07.2018",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Fischer",
+      "thema":"Mapping von Smartphone-Gesten auf die Semantik der Schnittstellen von IoT Appliances"
+   },
+   {
+      "datum":"19.07.2018",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Hartmann",
+      "thema":"Studie einer gegenständlichen multimodalen Benutzerschnittstelle für interaktives Licht"
+   },
+   {
+      "datum":"26.07.2018",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Eisemann",
+      "thema":"Filmmontage von cineastischen Virtual Reality Geschichten - Eine Untersuchung der Anwendungsmöglichkeiten von traditionellen Montagetheorien auf Filmgeschichten in Virtual Reality"
+   },
+   {
+      "datum":"01.08.2018",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Vergleichende Studie zum Einsatz von Interaction Patterns im Kontext von B2C-Shops und das patternbasierte Responsive Design eines Shops"
+   },
+   {
+      "datum":"02.08.2018",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Kohls",
+      "thema":"Entwicklung eines generischen Evaluationstools für Monte Carlo Rendering Algorithmen"
+   },
+   {
+      "datum":"07.08.2018",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Kohls",
+      "thema":"Gegenüberstellung von neuartigen und traditionellen Steuerungsmechaniken in Echtzeitstrategiespielen in der virtuellen Realität"
+   },
+   {
+      "datum":"31.08.2018",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Kohls",
+      "thema":"Methoden zum Subgraph-Matching in Straßennetzen"
+   },
+   {
+      "datum":"05.10.2018",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Empfehlungen zur Entwicklung eines virtuellen Leitstandes."
+   },
+   {
+      "datum":"11.10.2018",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Klocke",
+      "thema":"Konzept und Prototyp eines kontextsensitiven Smart Home Interfaces auf Basis von OpenHAB"
+   },
+   {
+      "datum":"22.10.2018",
+      "erstpruefer":"Winter",
+      "zweitpruefer":"Bente",
+      "thema":"Generierung abstrakter Testfälle aus UML-Zustandsdiagrammen"
+   },
+   {
+      "datum":"07.11.2018",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Konzept und Prototyp für die Visualisierung von Sensordaten eines Staubsaugerroboters durch eine mobile Augmented Reality Anwendung"
+   },
+   {
+      "datum":"16.11.2018",
+      "erstpruefer":"Faeskorn-Woyke",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Grenzen und Alternativen relationaler Datenbanken für Videometadatenverwaltung"
+   },
+   {
+      "datum":"18.12.2018",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Kornacher",
+      "thema":"Triangulation als Strategie im Bereich des UX - Design"
+   },
+   {
+      "datum":"21.01.2019",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"System zur Bündelung der digitalen Kommunikationskanäle bei der Bevölkerungswarnung durch das Amt für Bevölkerungsschutz des Rhein-Sieg-Kreises"
+   },
+   {
+      "datum":"22.01.2019",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Kohls",
+      "thema":"Weiterentwicklung eines Augmented Reality Indoor-Navigationssystems für den Campus Gummersbach"
+   },
+   {
+      "datum":"29.01.2019",
+      "erstpruefer":"Bertelsmeier",
+      "zweitpruefer":"Faeskorn-Woyke",
+      "thema":"Einführende Betrachtungen der gesellschaftlichen Auswirkungen von Big Data - Anwendungen im Bereich der Kriminalitätsbekämpfung"
+   },
+   {
+      "datum":"30.01.2019",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Eisemann",
+      "thema":"Die aktive Zuschauerperspektive im VR-Film - Eine Untersuchung der autonomen Betrachtung einer als VR-Szene adaptierten klassischen Film-Szene"
+   },
+   {
+      "datum":"30.01.2019",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Eisemann",
+      "thema":"Konzeption und Entwicklung einer mobilen App zur Nutzung visueller Karten zum Aufruf von Trainingsinhalten"
+   },
+   {
+      "datum":"06.02.2019",
+      "erstpruefer":"Köhler",
+      "zweitpruefer":"Böhmer",
+      "thema":"Die algorithmische Vereinfachung von (Gitarren-) Tabulaturen"
+   },
+   {
+      "datum":"14.02.2019",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Kohls",
+      "thema":"Automatische Aufnahme und Aufbereitung von Vorlesungsmitschnitten - Konzipierung eines audiovisuellen Systems"
+   },
+   {
+      "datum":"14.02.2019",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Optimierung der Software-Ergonomie & Usability für Benutzer-Interaktionskonzepte eines Systems zur Objekterkennung in der Logistik"
+   },
+   {
+      "datum":"20.02.2019",
+      "erstpruefer":"Stahl",
+      "zweitpruefer":"Karsch",
+      "thema":"Konzept einer Erweiterungsschnittstelle und exemplarische Implementierung anhand eines Anwendungsfalles"
+   },
+   {
+      "datum":"20.02.2019",
+      "erstpruefer":"Stahl",
+      "zweitpruefer":"Karsch",
+      "thema":"Betrachtung zur Sicherheit von IoT-Szenarien unter Einsatz eines Single-Board Computers"
+   },
+   {
+      "datum":"25.02.2019",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Entwicklung eines Scoring-Modells zur Evaluierung der Wertigkeit von Vermarktungsinventaren"
+   },
+   {
+      "datum":"27.02.2019",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Konzeption eines Smart-Interfaces zur Integartion von UCC-Anwendungen im Unternehmenskontext und prototypische Implementierung einer Benutzungsschnittstelle"
+   },
+   {
+      "datum":"28.02.2019",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Noss",
+      "thema":"Storytelling in Onlinewerbefilmen - eine Analyse von Erfolgsfaktoren am Beispiel der Onlinekampagnen von Lidl und Edeka"
+   },
+   {
+      "datum":"28.02.2019",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kornacher",
+      "thema":"Stakeholder-Perspektiven auf unternehmerisches Storytelling im Kontext von Business-to-Consumer Produktmarketing Analyse von online geteilten Nutzer-/                       Nutzungs-Erlebnissen mittels thematischer Analyse"
+   },
+   {
+      "datum":"09.04.2019",
+      "erstpruefer":"Köhler",
+      "zweitpruefer":"Faeskorn-Woyke",
+      "thema":"Reduzierung der Kriminalitätsrate in Deutschland anhand eines sozialen Projektes, die von einer MERN (Mongo DB, Express, ReactJS, NodeJS) Anwendung unterstützt wird"
+   },
+   {
+      "datum":"07.06.2019",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Böhmer",
+      "thema":"Optimierung der User Experience durch Seductive Interaction Design am Beispiel einer webbasierten Anwendung zur Erweiterung von Buchinhalten durch Internetquellen"
+   },
+   {
+      "datum":"16.07.2019",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kornacher",
+      "thema":"Explorative, qualitative Studie zu Nutzungsmotiven und Nutzungserlebnissen (UX) am Beispiel von Smartwatches"
+   },
+   {
+      "datum":"16.07.2019",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Noss",
+      "thema":"Machbarkeitsanalyse einer Migration und Integration von zwei mehrsprachigen Magento 1 Onlineshops in eine einzelne Magento 2 Installation"
+   },
+   {
+      "datum":"16.07.2019",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Konzeption eines abstrakten Datenmodells zur Generierung von Dokumentationsartefakten für RESTful APIs"
+   },
+   {
+      "datum":"16.07.2019",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Noss",
+      "thema":"Implementierung eines Feedback-Dashboards zur Unterstützung studentischer Projekte"
+   },
+   {
+      "datum":"16.07.2019",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Hartmann",
+      "thema":"Zuschauerführung im Storytelling von Virtual Reality im Kontext der Markenkommunikation"
+   },
+   {
+      "datum":"17.07.2019",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Winter",
+      "thema":"Adaption von ausgewählten IT-Projektmanagement Modellen auf die Unternehmensfilm-Produktion"
+   },
+   {
+      "datum":"18.07.2019",
+      "erstpruefer":"Bertelsmeier",
+      "zweitpruefer":"Noss",
+      "thema":"Ummodellierung eines Lightfinder-Systems mit Neo4j"
+   },
+   {
+      "datum":"31.07.2019",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Böhmer",
+      "thema":"Der Einfluss von Farbnormalisierung auf die Klassifizierung von Bildern durch künstliche neuronale Netze"
+   },
+   {
+      "datum":"05.08.2019",
+      "erstpruefer":"Günther",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Systematische Entwicklung eines Prototyps für die Umstellung des Requirements Engineerings vom Wasserfallmodell auf Scrum"
+   },
+   {
+      "datum":"08.08.2019",
+      "erstpruefer":"Winter",
+      "zweitpruefer":"Koeppe",
+      "thema":"Analyse und Validierung der Netzdynamik eines Simulationsmodells für ein Planspiel zum Denken in vernetzten Systemen"
+   },
+   {
+      "datum":"20.08.2019",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Konzeption eines Sticky Filters für den Onlinehandel sowie eine vergleichende Evaluierung mit bestehenden Produktfiltern"
+   },
+   {
+      "datum":"20.08.2019",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Kommunikationsstrategien auf Basis einer Zielgruppenanalyse am Beispiel der AGewiS"
+   },
+   {
+      "datum":"28.08.2019",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Noss",
+      "thema":"Prototyping einer Gesundheits-App unter Betrachtung besonderer Anforderungen an die User Experience im Nutzungskontext Guatemala"
+   },
+   {
+      "datum":"28.08.2019",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Noss",
+      "thema":"Entwicklung einer mobilen Web-App als Gamepad zum kollaborativen Spielen"
+   },
+   {
+      "datum":"28.08.2019",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Konen",
+      "thema":"Entwicklung und Evaluation einer auf der Hauptkomponentenanalyse basierenden Bounding Volume Hierarchy"
+   },
+   {
+      "datum":"29.08.2019",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Eisemann",
+      "thema":"UX Design Guidance - Erstellung konkreter Gestaltungsoptionen auf Basis abstrakter Vorgehensmodelle"
+   },
+   {
+      "datum":"29.08.2019",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Kohls",
+      "thema":"Das Smartphone im Klassenzimmer - Systematische Analyse von Szenarien im Unterricht anhand von Experteninterviews"
+   },
+   {
+      "datum":"29.08.2019",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"\"Konzeption und Implementierung von Designmustern für eine handlungsaktivierende User Experience für die App \"\"Recycle Scan\"\"\""
+   },
+   {
+      "datum":"30.08.2019",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Smarte Brettspiele - Prototypische Umsetzung eines Gamification-Ansatzes für hybride Lernanwendungen"
+   },
+   {
+      "datum":"18.09.2019",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Entwicklung eines Moduls zur psychologischen Befragung von Kindern im Rahmen einer mobilen Anwendung"
+   },
+   {
+      "datum":"18.09.2019",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Böhmer",
+      "thema":"Erstellung von Familienkonstellationen im Rahmen einer mobilen Anwendung zur psychologischen Befragung von Kindern"
+   },
+   {
+      "datum":"30.09.2019",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Nutzerzentrierte Entwicklung eines Systems zur Synchronisation von analogen und digitalen Scrumboards"
+   },
+   {
+      "datum":"02.10.2019",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Erarbeitung und analytische Evaluation einer Gestaltungslösung für ein internes Parkplatzsharing-System der Zurich Gruppe Deutschland"
+   },
+   {
+      "datum":"18.10.2019",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Kohls",
+      "thema":"Erarbeitung von Gestaltungsvarianten einer Webshop-Landingpage zur Erhöhung der Conversion-Rate und Evaluation der Maßnahmen mittels A/B-Testing am Beispiel des Webshops eines kleinständigen Unternehmens (masaii.us)"
+   },
+   {
+      "datum":"18.10.2019",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Kohls",
+      "thema":"\"Entwicklung eines CSS-Frameworks auf Basis von \"\"CSS Grid Layout\"\" zur Implementierung des \"\"Broken Grid\"\" Ansatzes\""
+   },
+   {
+      "datum":"25.10.2019",
+      "erstpruefer":"Winter",
+      "zweitpruefer":"Böhmer",
+      "thema":"GUI-Test und Design for Testability einer Canvas-basierten Android Anwendung am Beispiel InGeno"
+   },
+   {
+      "datum":"12.11.2019",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"User Experience Design im Bereich E-Commerce -              Konzeption und Entwicklung eines produktergänzenden Stores innerhalb eines digitalen Abfallmanagement-Systems"
+   },
+   {
+      "datum":"13.11.2019",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Implementierung eines Deployment-Prozesses für A/B-Tests in einer Mobile App"
+   },
+   {
+      "datum":"19.11.2019",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Kohls",
+      "thema":"Studie und Prototyp einer aufgabensensitiven und formadaptiven Computermaus"
+   },
+   {
+      "datum":"19.11.2019",
+      "erstpruefer":"Fischer",
+      "zweitpruefer":"Noss",
+      "thema":"Mobile Anwendung für Diabetiker - Unterstützung bei Kommunikation, Ernährung und Sport"
+   },
+   {
+      "datum":"19.11.2019",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Konzeption digitaler interaktiver Packungsbeilagen im medizinischen Kontext zur Optimierung der Usability auf Basis einer Untersuchung der Nutzerbedürfnisse"
+   },
+   {
+      "datum":"20.11.2019",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kornacher",
+      "thema":"Vergleich von Designpattern für die mobile und stationäre Nutzung und prototypische Gestaltung und Entwicklung für eine responsive Lösung -Patterndesign für Reiseblogs"
+   },
+   {
+      "datum":"04.12.2019",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kornacher",
+      "thema":"Auswertung einer explorativen Studie zu Nutzungskontexten in E-Learning Anwendungen für Kinder mit Down-Syndrom und Identifikation relevanter Interaktions-Muster"
+   },
+   {
+      "datum":"09.12.2019",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kornacher",
+      "thema":"Usability im Bereich mobiler Auftragsdurchführung - Konzeption, prototypische Gestaltung und Evaluation einer Benutzungsschnittstelle zur Unterstützung von Monteuren eines Gasnetzbetreibers bei der Überprüfung von Hausanschlüssen"
+   },
+   {
+      "datum":"09.12.2019",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Eisemann",
+      "thema":"Evaluation gewohnheitsprägender Features von Smartphone-Apps"
+   },
+   {
+      "datum":"12.12.2019",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Design und Implementierung eines Systems für die automatisierte Analyse und Klassifizierung von User Controls mittels Machine Learning"
+   },
+   {
+      "datum":"16.12.2019",
+      "erstpruefer":"Bente",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Enterprise Architecture und Agilität - Wie Agilität die Rolle des Enterprise-Architekten beeinflusst."
+   },
+   {
+      "datum":"02.01.2020",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Köhler",
+      "thema":"Entwicklung und Evaluation eines haptischen Controllers zur Steuerung musikalischer Parameter"
+   },
+   {
+      "datum":"14.01.2020",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Emotionserkennung als erweiterte Steuerungsmöglichkeit für interaktive Anwendungen"
+   },
+   {
+      "datum":"23.01.2020",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kohls",
+      "thema":"Praktische Anwendung des Gamification Questionnaire GAMEFULQUEST am Beispiel eines E-Learning Systems"
+   },
+   {
+      "datum":"03.02.2020",
+      "erstpruefer":"Winter",
+      "zweitpruefer":"Böhmer",
+      "thema":"Optimierung eines Testprozesses mit statischen Codeanalysen und Komponententests"
+   },
+   {
+      "datum":"06.02.2020",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Welche Metriken und Informationen sind für eine projekt-adäquate Definition von Web-Frontend Performance-Budgets erforderlich und hilfreich?"
+   },
+   {
+      "datum":"07.02.2020",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Noss",
+      "thema":"Explorative Studie zur regelbasierten Kontrolle von Smartphone Notifications"
+   },
+   {
+      "datum":"13.02.2020",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Wiss. Mitarbeiter Fak. 10",
+      "thema":"Entwicklung eines Styleguides auf Basis der Methodologien Design Systems und Atomic Design"
+   },
+   {
+      "datum":"17.02.2020",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Design und Implementierung eines Systems zur automatisierten Segmentierung von User Interface Screenshots für User Controls Analyse"
+   },
+   {
+      "datum":"17.02.2020",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Using Google´s Flutter Framework for the Development of a Large-Scale Reference Application"
+   },
+   {
+      "datum":"25.02.2020",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Bewertung und Anpassung eines Systems zur Betrugsprophylaxe unter Berücksichtigung algorithmischer Vorurteile"
+   },
+   {
+      "datum":"26.02.2020",
+      "erstpruefer":"Winter",
+      "zweitpruefer":"Kohls",
+      "thema":"Qualitätsorientierte Kategorisierung und Klassifikation von Code-Snippets"
+   },
+   {
+      "datum":"26.02.2020",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Kohls",
+      "thema":"Kommunikationskonzepte im Kontext der Interaktion zwischen YouTube Content Creator und Zuschauer auf Basis einer an die Mensch-Computer-Interaktion angelehnten Bedürfnisanalyse"
+   },
+   {
+      "datum":"28.02.2020",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Wilk",
+      "thema":"Echtzeit-Streaming mit dem Captury Motion Capture System"
+   },
+   {
+      "datum":"31.03.2020",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Kohls",
+      "thema":"Evaluation und prototypische Implementierung einer gamifizierten Lernanwendung für den Aufbau von Petri-Netzen"
+   },
+   {
+      "datum":"30.04.2020",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Engelen",
+      "thema":"Das Storyboard als Präsentationsmittel von IT-Produkten im Marketing"
+   },
+   {
+      "datum":"18.05.2020",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Stahl",
+      "thema":"Evaluation von LoRaWAN für den Einsatz auf OpenAir-Veranstaltungen zum Synchronisieren digitaler Ticket-Barcodes"
+   },
+   {
+      "datum":"20.05.2020",
+      "erstpruefer":"",
+      "zweitpruefer":"",
+      "thema":"Paradigmen für User Interfaces und User Experience in Virtual Reality Anwendungen"
+   },
+   {
+      "datum":"18.06.2020",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Hartmann",
+      "thema":"Konzeption und Umsetzung einer App zur Umzugsplanung"
+   },
+   {
+      "datum":"25.06.2020",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Die Einführung der Gamification-Elemente in den täglichen Arbeitsprozess der Kundenmanager im Zahnarzt-Factoring"
+   },
+   {
+      "datum":"06.07.2020",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Wiss. Mitarbeiter Fak. 10",
+      "thema":"Anwendung und Analyse von Quick Wins bei der Onpage-Optimierung und Ableitung von langfristigen Handlungsempfehlungen am Beispiel der Webseite eines mittelständischen B2B-Unternehmens"
+   },
+   {
+      "datum":"09.07.2020",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Kohls",
+      "thema":"Origami Diagramming:Evaluating and Improving the Origami Diagramming Tool Origrammer"
+   },
+   {
+      "datum":"09.07.2020",
+      "erstpruefer":"Bartz-Beielstein",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Predictive Maintenance zur Prozessoptimierung von Dampferzeugern"
+   },
+   {
+      "datum":"09.07.2020",
+      "erstpruefer":"Lindt",
+      "zweitpruefer":"Wiss. Mitarbeiter Fak. 10",
+      "thema":"Gamification von Live Video Streaming Anwendungen"
+   },
+   {
+      "datum":"21.07.2020",
+      "erstpruefer":"Faeskorn-Woyke",
+      "zweitpruefer":"Zühlke",
+      "thema":"Visualisierung sowie Auswertung medizinischer Sensordaten unter Zuhilfenahme unterschiedlicher Algorithmen des Maschinellen Lernens"
+   },
+   {
+      "datum":"07.08.2020",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Noss",
+      "thema":"Color Grading in Spielfilmen und Serien zur Unterstützung der dramaturgischen Aspekte im Storytelling"
+   },
+   {
+      "datum":"07.08.2020",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Noss",
+      "thema":"Kulturelle Einflüsse auf japanisches Interfacedesign - Gestaltungsrichtlinien auf Basis kultureller Spezifika und Differenzen"
+   },
+   {
+      "datum":"17.08.2020",
+      "erstpruefer":"Konen",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Geoinformationsbasierte Ermittlung und Visualisierung der Erreichbarkeit von Unternehmensniederlassungen"
+   },
+   {
+      "datum":"19.08.2020",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Eisemann",
+      "thema":"Die Farbgebung im Gamedesign und in der Gameentwicklung"
+   },
+   {
+      "datum":"19.08.2020",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Noss",
+      "thema":"Der Klang von analogen Instrumenten und ihren digitalen Simulationen - ein Vergleich am Beispiel von Schlagzeug und akustischer Gitarre"
+   },
+   {
+      "datum":"24.08.2020",
+      "erstpruefer":"Bertelsmeier",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Erstellung eines individuellen Template von einem SAP Webintelligence Report für ein Unternehmen"
+   },
+   {
+      "datum":"24.08.2020",
+      "erstpruefer":"Bertelsmeier",
+      "zweitpruefer":"Externer Prüfer",
+      "thema":"Umgang mit personenbezogenen Daten mit SAP Information Lifecycle Management - Löschen und Sperren im ILM"
+   },
+   {
+      "datum":"28.08.2020",
+      "erstpruefer":"Eisemann",
+      "zweitpruefer":"Konen",
+      "thema":"Entwicklung und Implementierung eines Downscaling Algorithmus"
+   },
+   {
+      "datum":"28.08.2020",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Victor",
+      "thema":"Analyse und Integrierung von Messaging Diensten in bestehende mobile Anwendungen"
+   },
+   {
+      "datum":"31.08.2020",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Kohls",
+      "thema":"Aufmerksamkeitsreize im Storytelling von Unternehmensfilmen zur Erreichung der Zielgruppe"
+   },
+   {
+      "datum":"31.08.2020",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Eisemann",
+      "thema":"Anforderungen an die Visualisierung elektronischer Musik durch Sound-to-Light Lösungen der Lichttechnik auf Basis des Storytellings"
+   },
+   {
+      "datum":"31.08.2020",
+      "erstpruefer":"Kornacher",
+      "zweitpruefer":"Eisemann",
+      "thema":"Konzeption und Planung eines dreidimensionalen Video Tutorials unter besonderer Berücksichtigung der Immersion - Eine Untersuchung am Beispiel vom Paartanz"
+   },
+   {
+      "datum":"11.09.2020",
+      "erstpruefer":"Böhmer",
+      "zweitpruefer":"Karsch",
+      "thema":"Konzeption und Implementierung eines portablen Netzwerkanalyse-Tools für Smart Home Devices"
+   },
+   {
+      "datum":"17.09.2020",
+      "erstpruefer":"Noss",
+      "zweitpruefer":"Groß",
+      "thema":"Entwicklung von Darstellungs- und Interaktionsmöglichkeiten in Virtual Reality für das Cranach Digital Archive"
+   },
+   {
+      "datum":"23.09.2020",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Kornacher",
+      "thema":"Redesign-Iteration eines Systems unter besonderer Berücksichtigung der User-Experience"
+   },
+   {
+      "datum":"24.09.2020",
+      "erstpruefer":"Hartmann",
+      "zweitpruefer":"Noss",
+      "thema":"Webseiten-Konzipierung eines Künstlerwebseite unter dem Fokus der User Experience"
+   },
+   {
+      "datum":"25.09.2020",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Wiss. Mitarbeiter Fak. 10",
+      "thema":"Design Thinking als Vorgehensmodell für studentische Projekte"
+   },
+   {
+      "datum":"25.09.2020",
+      "erstpruefer":"Kohls",
+      "zweitpruefer":"Wiss. Mitarbeiter Fak. 10",
+      "thema":"Die Nutzung von Gamification zur Verbesserung der User Experience - Marktanalyse & Designfaktoren"
+   }
+]

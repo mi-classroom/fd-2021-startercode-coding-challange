@@ -1,0 +1,26 @@
+  <li class="text-card" data-datum="{{item.datum}}" data-thema="{{item.thema}}" data-erstpruefer="{{people[item.erstpruefer].name}}" data-zweitpruefer="{{people[item.zweitpruefer].name}}">
+
+    <h3 class="text-card__headline">{{item.thema}}</h3>
+
+    <ul class="text-card__meta">
+    
+      {% set datum = item.datum.split(".") %}
+      {% set monat = datum[1] %}
+      {% set jahr = datum[2] %}
+      
+      <li class="text-card__meta-item">{{monat}}.{{jahr}}</li>
+
+      {% if people[item.erstpruefer].name | length > 0 %}
+      <li class="text-card__meta-item"><a href="{{people[item.erstpruefer].personenseite}}">{{people[item.erstpruefer].name}}</a></li>
+      {% else %}
+      <li class="text-card__meta-item">{{item.erstpruefer}}</li>
+      {% endif %}
+
+      {% if people[item.zweitpruefer].name | length > 0 %}
+      <li class="text-card__meta-item"><a href="{{people[item.zweitpruefer].personenseite}}">{{people[item.zweitpruefer].name}}</a></li>
+      {% else %}
+      <li class="text-card__meta-item">{{item.zweitpruefer}}</li>
+      {% endif %}
+
+    </ul>
+  </li>

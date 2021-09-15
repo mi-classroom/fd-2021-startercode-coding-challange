@@ -1,0 +1,23 @@
+---
+title: Masterarbeit im Unternehmen
+sectionClass: simple
+layout: content.njk
+---
+
+<h2>{{ title }}</h2>
+
+<p>Das viersemestrige Masterstudium schließt mit der Massenarbeit ab, für die ca. sechs Monate Arbeit vorgesehen sind. Der organisatorische Rahmen kann ähnlich wie bei der Bachelorarbeit im Unternehmen sein. Der Anspruch und der Umfang der Arbeit müssen den Zielen des Masterstudiums entsprechen, insbesondere müssen die selbstständige Anwendung der theoretisch-analytischen Fähigkeiten und die selbstständige Urteilsfindung bei der Ausarbeitung im Vordergrund stehen.</p>
+
+<dl>
+  <dt>Masterarbeit</dt>
+  <dd>30 ECTS Punkte, entspricht 900 Stunden Workload</dd>
+  <dd>Studierende ab dem 4. Semester im Masterstudiengang</dd>
+</dl>
+
+<h3>Liste aller Masterarbeiten <span class="subtitle">von 2015 - 2020</span></h3>
+
+<ul>
+  {%- for item in abschlussarbeitenMIM20152020 | reverse -%}
+  {% include "card-abschlussarbeit.html" %}
+  {%- endfor -%}
+</ul>

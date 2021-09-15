@@ -1,0 +1,33 @@
+---
+title: Praxisprojekt & Bachelorarbeit im Unternehmen
+sectionClass: simple
+layout: content.njk
+---
+
+<h2>{{ title }}</h2>
+
+<p>Die häufigste Form der Kooperation ist die gemeinsam betreute Abschlussarbeit. Die angehenden Absolventen werden für die Zeit der Bachelorarbeit und/oder des vorgelagerten Praxisprojekts vom Unternehmen unter Vertrag genommen und absolvieren die Zeit überwiegend beim Kooperationspartner. Das Thema oder Themenfeld kommt vom Unternehmen oder wird gemeinschaftlich erarbeitet. Im Regelfall wird die Arbeit von einem unserer Dozenten und einem Mitarbeiter des Unternehmens betreut. Unternehmen profitieren von der Möglichkeit, dass sich eine Person ohne Ablenkung vom "Tagesgeschäft" konzentriert mit einer Fragestellung auseinandersetzen und Lösungen auf dem aktuellen Niveau wissenschaftlicher Forschung erarbeiten kann.
+Unsere Studierenden haben dadurch die Möglichkeit ein praxisnahes Problem im Unternehmenskontext zu lösen und Kontakt zu potenziellen Arbeitgebern aufzubauen. Wir als Lehr- und Forschungsgebiet Medieninformatik profitieren von der Konfrontation mit konkreten praxisnahes Problemfeldern.</p>
+
+<p>Meist wird ein gemeinsames Projekt durch die Module Praxisprojekt und Abschlussarbeit abgedeckt. Dadurch können sich die Studentinnen und Studenten ein komplettes Semester auf ein Thema konzentrieren.</p>
+
+
+<dl>
+  <dt>Praxisprojekt</dt>
+  <dd>15 ECTS Punkte, entspricht 450 Stunden Workload</dd>
+  <dd>Studierende ab dem 5. Semester</dd>
+</dl>
+
+<dl>
+  <dt>Bachelorarbeit</dt>
+  <dd>12 ECTS Punkte, entspricht 360 Stunden Workload</dd>
+  <dd>Studierende ab dem 6. Semester</dd>
+</dl>
+
+<h3>Liste aller Bachelorarbeiten <span class="subtitle">von 2015 - 2020</span></h3>
+
+<ul>
+  {%- for item in abschlussarbeitenMIB20152020 | reverse -%}
+  {% include "card-abschlussarbeit.html" %}
+  {%- endfor -%}
+</ul>

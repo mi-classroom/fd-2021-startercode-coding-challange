@@ -1,0 +1,52 @@
+* {
+  /* TODO: Zeigen */
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--lightest);
+  color: var(--color-text);
+  font-family: var(--ff-normal);
+  font-size: var(--m);
+  font-weight: var(--fw-normal);
+  hyphens: auto;
+  line-height: var(--lh-normal);
+}
+
+h1,
+h2,
+h3 {
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  color: var(--color-headline);
+  font-family: var(--ff-headline);
+  font-weight: 400;
+  line-height: var(--lh-tight);
+}
+
+p,
+dl,
+section {
+  padding-bottom: var(--m);
+}
+
+dt {
+  color: var(--mi-blau);
+
+  &::after {
+    content: ":";
+  }
+}
+
+p {
+  max-width: 60rem;
+}
+
+a {
+  color: var(--color-interaction);
+  text-decoration: none;
+}

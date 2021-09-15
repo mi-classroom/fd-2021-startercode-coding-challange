@@ -1,0 +1,170 @@
+
+/* Hero
+############################################################################ */
+
+.hero {
+  font-size: var(--l);
+  line-height: var(--lh-normal);
+}
+
+/* Overview
+############################################################################ */
+
+
+/* Subtitle
+############################################################################ */
+
+.subtitle {
+  color: var(--darker);
+}
+
+/* Text Card
+############################################################################ */
+ 
+
+/* Image Card
+############################################################################ */
+
+.image-card {
+  &.hidden {
+    display: none;
+  }
+
+  figure {
+    position: relative;
+    z-index: 0;
+    overflow: hidden;
+    height: 0;
+    padding-top: calc(3/4*100%);
+
+    & > img {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    & > figcaption {
+      position: absolute;
+      z-index: 1;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+
+      .image-card__text,
+      .image-card__meta {
+        position: relative;
+        z-index: 1;
+        color: var(--lightest);
+      }
+
+      .image-card__text {
+        margin: var(--s);
+        font-size: var(--s);
+      }
+
+      .image-card__meta {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        padding: var(--xs) var(--s);
+        background-color: var(--darkest);
+        font-size: var(--s);
+      }
+
+      &::before {
+        position: absolute;
+        z-index: 0;
+        top: 0;
+        right: 0;
+        bottom: 30%;
+        left: 0;
+        background-image: linear-gradient(to top, rgba(35, 31, 32, 0), rgba(35, 31, 32, 0.8));
+        background-position: bottom;
+        background-repeat: no-repeat;
+        background-size: auto;
+        content: '';
+        opacity: 1;
+      }
+    }
+  }
+}
+
+/* Hero with Text
+############################################################################ */
+
+.hero-with-text {
+  position: relative;
+  max-width: 60rem;
+  border-top: solid var(--border-width-m) var(--mi-lila);
+  margin-bottom: var(--m);
+
+  img {
+    width: 100%;
+  }
+
+  figcaption {
+    position: absolute;
+    top: 75%;
+    left: 0;
+
+  }
+}
+
+/* Inverse Texte
+############################################################################ */
+
+
+
+/* List
+############################################################################ */
+
+.list {
+  &--stacked {
+    li {
+      margin-left: var(--l);
+      list-style-type: square;
+    }
+  }
+}
+
+/* Button
+############################################################################ */
+
+.button {
+  display: inline-block;
+  padding: var(--xxs) var(--xxs);
+  border: 1px solid transparent;
+  margin: 0 0 1rem;
+  -webkit-appearance: none;
+  background-color: var(--color-interaction);
+  border-radius: 0;
+  color: var(--lightest);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: var(--s);
+  line-height: var(--lh-tight);
+  text-align: center;
+  transition: background-color var(--tr-fast) ease-out, color var(--tr-fast)  ease-out;
+  vertical-align: middle;
+
+  &:hover {
+    background-color: var(--darkest);
+    color: var(--lightest);
+  }
+
+  &--second {
+    background-color: var(--lighter);
+    color: var(--darkest);
+  }
+}
+
+/* Formfields
+############################################################################ */
+

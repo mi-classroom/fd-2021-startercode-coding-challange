@@ -1,0 +1,12 @@
+---
+title: Kooperieren mit der Medieninformatik
+layout: default.njk
+---
+
+<main class="main-content">
+  {%- for section in collections.home -%}
+  <section id="section_{{section.fileSlug}}" class="{{section.data.sectionClass}}">
+    {{ section.templateContent | safe }}
+  </section>
+  {%- endfor -%}
+</main>

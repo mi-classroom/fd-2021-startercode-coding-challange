@@ -5,9 +5,6 @@ Das Projekt verwendet den Static Page Generator [11ty](https://www.11ty.dev/docs
 
 ## Ordnerstruktur
 
-### `/_stuff`
-
-Material zum Verarbeiten und Erklären … Layouts, PDF, usw.
 
 ### `/docs`
 
@@ -23,9 +20,9 @@ _data               Zusätzliche Daten oder Hilfsfunktionen
 _layouts            Templates
 assets              SCSS, Skripts, Fonts, etc … alles was kein Content ist
 compiled-assets     Kompilierte Dateien, z.B. CSS
-chapters            Content
+home                Content für die Startseite
 images              Bilder, die zum Content gehören
-index.md            Startseite
+index.html          Startseite
 ```
 
 ### Weitere Dateien
